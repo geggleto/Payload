@@ -1,0 +1,8 @@
+/vendor/
+.DS_Store
+composer.lock
+phpunit.xml
+vendor
+.idea
+clover.xml
+cache/
