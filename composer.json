@@ -1,19 +1,19 @@
 {
-    "name": "geggleto/payload",
-    "description": "PHP Data Transfer Object",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Glenn Eggleton",
-            "email": "geggleto@gmail.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {},
+  "name": "geggleto/payload",
+  "description": "PHP Data Transfer Object",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Glenn Eggleton",
+      "email": "geggleto@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
   "autoload": {
     "psr-4": {
       "Payload\\": "src"
     }
-  },
+  }
 }
